@@ -1,5 +1,5 @@
 .leaflet-control-zoom-display {
-    background-color: #fff;
+    background-color: #fff !important;
     border-bottom: 1px solid #ccc;
     width: 26px;
     height: 26px;
