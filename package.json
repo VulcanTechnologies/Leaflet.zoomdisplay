@@ -1,0 +1,12 @@
+{
+  "name": "leaflet.zoomdisplay",
+  "version": "0.0.1",
+  "description": "zoom plugin for Leaflet",
+  "main": "dist/leaflet.zoomdisplay.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VulcanTechnologies/Leaflet.zoomdisplay.git"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
